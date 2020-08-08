@@ -4,7 +4,7 @@
 
 - :telescope: I’m currently working a lot :laughing:
 - :seedling: I’m currently learning Rust, 3D, AI
-- :mailbox_with_mail: You can reach me on one of my socials
+- :mailbox_with_mail: You can reach me on one of my socials or send me feedback
 - :zap: Fun fact: I only use linux distro's
 - :goal_net: 2020 Goals: Contribute more to Open Source projects
 
@@ -32,7 +32,7 @@
 | Typescript | Pro       |
 | php        | Average   |
 | Lua        | Average   |
-| Css        | Average   |
+| CSS        | Average   |
 | Bash/Sh    | Average   |
 
 ## Format Language
