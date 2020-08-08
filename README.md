@@ -4,16 +4,18 @@
 
 - :telescope: I’m currently working a lot :laughing:
 - :seedling: I’m currently learning Rust, 3D, AI
-- :mailbox_with_mail: You cam reach me on one of my socials
+- :mailbox_with_mail: You can reach me on one of my socials
 - :zap: Fun fact: I only use linux distro's
 - :goal_net: 2020 Goals: Contribute more to Open Source projects
 
 ## Connect with me
 
-![website](./icons/search.png)
-![linkedin](./icons/linkedin.png)
-![instagram](./icons/instagram-sketched.png)
-![facebook](./icons/facebook.png)
+[<img align="left" alt="Giovanni Cardamone | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Giovanni Cardamone | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Giovanni Cardamone | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Giovanni Cardamone | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br>
 
 ## Programming languages
 
