@@ -10,10 +10,10 @@
 
 ## Connect with me
 
-![website](icons/search.png)
-![linkedin](icons/linkedin.png)
-![instagram](icons/instagram-sketched.png)
-![facebook](icons/facebook.png)
+![website](./icons/search.png)
+![linkedin](./icons/linkedin.png)
+![instagram](./icons/instagram-sketched.png)
+![facebook](./icons/facebook.png)
 
 ## Programming languages
 
