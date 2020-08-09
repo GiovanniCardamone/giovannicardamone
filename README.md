@@ -30,10 +30,10 @@
 | Python     | Pro       |
 | Javascript | Pro       |
 | Typescript | Pro       |
-| php        | Average   |
+| php        | Good      |
 | Lua        | Average   |
-| CSS        | Average   |
-| Bash/Sh    | Average   |
+| CSS        | Good      |
+| Bash/Sh    | Good      |
 
 ## Format Language
 
@@ -41,8 +41,6 @@
 - html
 - json
 - yaml
-
-## Ide and Tools
 
 [website]: https://giovannicardamone.github.io
 [facebook]: https://www.facebook.com/G.Cardamone2
