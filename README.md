@@ -19,21 +19,22 @@
 
 ## Programming languages
 
-| Language   | knowledge |
-| ---------- | --------- |
-| C          | Pro       |
-| C++        | Average   |
-| C#         | Good      |
-| Java       | Pro       |
-| Kotlin     | Average   |
-| Dart       | Beginner  |
-| Python     | Pro       |
-| Javascript | Pro       |
-| Typescript | Pro       |
-| php        | Good      |
-| Lua        | Average   |
-| CSS        | Good      |
-| Bash/Sh    | Good      |
+| Language   | knowledge   |
+| ---------- | ----------- |
+| C          | Pro         |
+| C++        | Average     |
+| C#         | Good        |
+| Java       | Pro         |
+| Kotlin     | Average     |
+| Dart       | Beginner    |
+| Python     | Pro         |
+| Javascript | Pro         |
+| Typescript | Pro         |
+| php        | Good        |
+| Lua        | Average     |
+| CSS        | Good        |
+| Bash/Sh    | Good        |
+| Rust       | Just Joined |
 
 ## Format Language
 
