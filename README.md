@@ -2,7 +2,7 @@
 
 ## I'm a software developer 🐈
 
-- :telescope: I’m currently working a lot :laughing:
+- :telescope: I’m currently working at [SourceSense](https://www.sourcesense.com/)
 - :seedling: I’m currently learning Rust, 3D, AI
 - :mailbox_with_mail: You can reach me on [My Website](https://giovannicardamone.github.io)
 - :zap: Fun fact: I only use linux distro's
