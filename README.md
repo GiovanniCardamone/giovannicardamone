@@ -16,7 +16,10 @@
 [<img align="left" alt="Giovanni Cardamone | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Giovanni Cardamone | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![Profile views](https://gpvc.arturio.dev/giovannicardamone)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+
+![Profile views](https://gpvc.arturio.dev/giovannicardamone)
 
 [![GiovanniCardamone's github stats](https://github-readme-stats.vercel.app/api?username=giovannicardamone)](https://github.com/giovannicardamone/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannicardamone&layout=compact)](https://github.com/giovannicardamone/github-readme-stats)
 
