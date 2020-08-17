@@ -18,7 +18,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/giovannicardamone)
 
-[![GiovanniCardamone's github stats](https://github-readme-stats.vercel.app/api?username=giovannicardamone)](https://github.com/giovannicardamone/github-readme-stats) &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannicardamone&layout=compact)](https://github.com/giovannicardamone/github-readme-stats)
+[![GiovanniCardamone's github stats](https://github-readme-stats.vercel.app/api?username=giovannicardamone)](https://github.com/giovannicardamone/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannicardamone&layout=compact)](https://github.com/giovannicardamone/github-readme-stats)
 
 
 
