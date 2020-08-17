@@ -8,6 +8,8 @@
 - :zap: Fun fact: I only use linux distro's
 - :goal_net: 2020 Goals: Contribute more to Open Source projects
 
+![Profile views](https://gpvc.arturio.dev/giovannicardamone)
+
 ## Connect With me
 
 [<img align="left" alt="Giovanni Cardamone | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]	
