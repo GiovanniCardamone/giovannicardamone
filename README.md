@@ -8,8 +8,6 @@
 - :zap: Fun fact: I only use linux distro's
 - :goal_net: 2020 Goals: Contribute more to Open Source projects
 
-![Profile views](https://gpvc.arturio.dev/giovannicardamone)
-
 ## Connect With me
 
 [<img align="left" alt="Giovanni Cardamone | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]	
@@ -17,6 +15,8 @@
 [<img align="left" alt="Giovanni Cardamone | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]	
 [<img align="left" alt="Giovanni Cardamone | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Giovanni Cardamone | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+![Profile views](https://gpvc.arturio.dev/giovannicardamone)
 
 [website]: https://giovannicardamone.github.io
 [facebook]: https://www.facebook.com/G.Cardamone2
