@@ -17,6 +17,7 @@
 [<img alt="Giovanni Cardamone | LinkedIn" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 
 ![Profile views](https://gpvc.arturio.dev/giovannicardamone)
+![Followers](https://img.shields.io/github/followers/GiovanniCardamone?style=plastic)
 
 [![GiovanniCardamone's github stats](https://github-readme-stats.vercel.app/api?username=giovannicardamone)](https://github.com/giovannicardamone/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannicardamone&layout=compact)](https://github.com/giovannicardamone/github-readme-stats)
 
