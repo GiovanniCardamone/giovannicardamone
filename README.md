@@ -10,7 +10,7 @@
 
 ## Connect With me
 
-[<img alt="Giovanni Cardamone | Website" src="https://img.shields.io/badge/w3c-%231877F2.svg?&style=for-the-badge&logo=w3c&logoColor=white" />][website]	
+[<img alt="Giovanni Cardamone | Website" src="https://img.shields.io/badge/home-%231877F2.svg?&style=for-the-badge&logo=w3c&logoColor=white" />][website]	
 [<img alt="Giovanni Cardamone | LinkedIn" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />][facebook]	
 [<img alt="Giovanni Cardamone | Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]	
 [<img alt="Giovanni Cardamone | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
