@@ -10,11 +10,11 @@
 
 ## Connect With me
 
-[<img align="left" alt="Giovanni Cardamone | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]	
-[<img align="left" alt="Giovanni Cardamone | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]	
-[<img align="left" alt="Giovanni Cardamone | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]	
-[<img align="left" alt="Giovanni Cardamone | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Giovanni Cardamone | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img alt="Giovanni Cardamone | Website" src="	https://img.shields.io/badge/home-%1D1E1F5F.svg?&style=for-the-badge&logoColor=white" />][website]	
+[<img alt="Giovanni Cardamone | LinkedIn" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />][facebook]	
+[<img alt="Giovanni Cardamone | Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]	
+[<img alt="Giovanni Cardamone | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img alt="Giovanni Cardamone | LinkedIn" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 
 &nbsp;
 
