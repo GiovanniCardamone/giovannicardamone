@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Giovanni!
 
-## I'm a software developer 🐈
+## I'm a Software Developer 🐈
 
 - :telescope: I’m currently working at [SourceSense](https://www.sourcesense.com/)
 - :seedling: I’m currently learning Rust, 3D, AI
@@ -8,7 +8,7 @@
 - :zap: Fun fact: I only use linux distro's
 - :goal_net: 2020 Goals: Contribute more to Open Source projects
 
-## Connect With me
+## Connect With Me
 
 [<img alt="Giovanni Cardamone | Website" src="https://img.shields.io/badge/website-%FFFFFF.svg?&style=for-the-badge&logo=w3c&logoColor=white&color=1d1e1f" />][website]	
 [<img alt="Giovanni Cardamone | LinkedIn" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />][facebook]	
