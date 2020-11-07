@@ -20,7 +20,8 @@
 ![Stars](https://img.shields.io/github/stars/GiovanniCardamone)
 ![Profile views](https://gpvc.arturio.dev/giovannicardamone)
 
-<a href="https://github.com/hoosin"><img src="https://github-readme-stats.vercel.app/api?username=giovannicardamone&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default" style="width: 58%; max-width: 58%; min-width: 58%;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannicardamone&layout=compact&count_private=true&theme=default" style="width: 40%; max-width: 40%; min-width: 40%;"></a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GiovanniCardamone&show_icons=true&&line_height=33)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniCardamone&show_icons=true)
 
 
 [website]: https://giovannicardamone.github.io
