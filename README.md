@@ -17,6 +17,7 @@
 [<img alt="Giovanni Cardamone | LinkedIn" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 
 ![Followers](https://img.shields.io/github/followers/GiovanniCardamone)
+![Stars](https://img.shields.io/github/stars/GiovanniCardamone)
 ![Profile views](https://gpvc.arturio.dev/giovannicardamone)
 
 <a href="https://github.com/hoosin"><img src="https://github-readme-stats.vercel.app/api?username=giovannicardamone&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default" style="width: 58%; max-width: 58%; min-width: 58%;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannicardamone&layout=compact&count_private=true&theme=default" style="width: 40%; max-width: 40%; min-width: 40%;"></a>
