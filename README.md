@@ -23,6 +23,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GiovanniCardamone&show_icons=true&&line_height=33)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniCardamone&show_icons=true)
 
+![code](./code.png)
 
 [website]: https://giovannicardamone.github.io
 [facebook]: https://www.facebook.com/G.Cardamone2
