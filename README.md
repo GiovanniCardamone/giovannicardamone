@@ -20,7 +20,7 @@
 ![Stars](https://img.shields.io/github/stars/GiovanniCardamone)
 ![Profile views](https://gpvc.arturio.dev/giovannicardamone)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GiovanniCardamone&show_icons=true&&line_height=33)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GiovanniCardamone&show_icons=true&&line_height=45)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniCardamone&show_icons=true)
 
 ![code](./code.png)
