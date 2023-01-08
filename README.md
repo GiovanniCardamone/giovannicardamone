@@ -5,7 +5,7 @@
 - :seedling: I’m currently learning Rust, 3D, AI
 - :mailbox_with_mail: You can reach me on [My Website](https://giovannicardamone.github.io)
 - :zap: Fun fact: I only use linux distro's
-- :goal_net: 2020 Goals: Contribute more to Open Source projects
+- :goal_net: 2023 Goals: Contribute more to Open Source projects
 
 ## Connect With Me
 
